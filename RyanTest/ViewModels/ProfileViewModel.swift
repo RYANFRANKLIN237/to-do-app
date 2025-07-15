@@ -2,7 +2,7 @@
 //  ProfileViewModel.swift
 //  RyanTest
 //
-//  Created by Jan on 12/07/2025.
+//  Created by Ryan on 12/07/2025.
 //
 import FirebaseAuth
 import FirebaseFirestore
